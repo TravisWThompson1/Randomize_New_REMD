@@ -6,7 +6,7 @@
 # 
 # This script will reference a previous REMD run ($REMD_DIR), 
 # copy necessary files, and choose four random geometries as 
-# starting geometries for the new REMD# ($REMD) to run.
+# starting geometries for the new REMD_# ($REMD) to run.
 #
 # TO DO:
 # Insert relevant values for $REMD_DIR, $REMD, and $atoms.
